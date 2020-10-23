@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "My-Formulario-Project"
+    }
+  },
+  "defaultProject": "My-Formulario-Project",
+  "cli": {
+    "analytics": false
+  }
 }

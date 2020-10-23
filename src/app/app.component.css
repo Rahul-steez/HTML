@@ -1,0 +1,33 @@
+form{
+  width: 25%;
+  border: 1px solid  black;
+  margin: 20px;
+  padding: 20px;
+}
+
+label{
+  font-style: italic;
+  display: block;
+  margin-bottom: 5px;
+}
+
+input,textarea{
+margin-bottom: 20px;
+width: 100%;
+padding:5px;
+box-sizing: border-box;
+}
+
+input[type="submit"]{
+  background: blue;
+  color: white;
+  border:none;
+}
+input[type="submit"]:hover{
+  background: red;
+  cursor: pointer;
+  font-size: 40s0px;
+}
+
+
+
